@@ -4,5 +4,5 @@
 ✔CSS variables and mediaqueirs were added.<br />
 ✔Animation for each section was added.<br />
 ✔Re usable css codes added as components.<br />
-[alt text](https://drive.google.com/file/d/1jU9E0bOC0WXpzYQrWIYyvZwvDdS0eeZm/view?usp=sharing)
-[alt text](https://drive.google.com/file/d/1jU9E0bOC0WXpzYQrWIYyvZwvDdS0eeZm/view?usp=sharing)
+(https://drive.google.com/file/d/1jU9E0bOC0WXpzYQrWIYyvZwvDdS0eeZm/view?usp=sharing)
+(https://drive.google.com/file/d/1jU9E0bOC0WXpzYQrWIYyvZwvDdS0eeZm/view?usp=sharing)
